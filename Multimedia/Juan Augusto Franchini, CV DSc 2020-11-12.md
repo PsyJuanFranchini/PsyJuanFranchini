@@ -5,7 +5,7 @@
 
 ## Experiencia laboral
 
--   **Data Science Intern-Research Assistant,** UBA. Proyecto “Adaptación y validación de la Escala Multidimensional de Apoyo Social Percibido (Zimet)”. Merge de las bases de 100 ayudantes de data entry, data cleaning, análisis factorial, correlacional, consistencia interna, validez concurrente, visualización de datos, presentación en congresos y jornadas de psicología. Marzo 2016 a abril 2019.
+-   **Data Science Intern-Research Assistant**, UBA. Proyecto “Adaptación y validación de la Escala Multidimensional de Apoyo Social Percibido (Zimet)”. [Merge de las bases de 100 ayudantes de data entry, data cleaning, análisis factorial, correlacional, consistencia interna, validez concurrente, visualización de datos, presentación en congresos y jornadas de psicología.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/SPSS-Sample-Syntax-Zimet-MasterDB-2018-2015) Marzo 2016 a abril 2019.
 
 -   **Ayudante de primera Metodología de la Investigación**, docente UBA Psicología. Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. Marzo 2018 a marzo 2019.
 
@@ -29,7 +29,7 @@
 
 -   **SQL:** Consulta y manipulación básica para bases de datos relacionales.
 
-***Educación***
+# Educación
 
 **Licenciatura en Psicología**, Universidad de Buenos Aires.
 
@@ -39,7 +39,7 @@
 
 -   Diploma de honor: Promedio: 8.11.
 
--   Práctica en Métodos Psicofisiológicos: 10.
+-   [Práctica en Métodos Psicofisiológicos](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/Poster-Proyecto-de-Investigacion-Metodos-Psicofiologicos.pdf): 10.
 
 ## Cursos
 
