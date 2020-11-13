@@ -35,7 +35,7 @@
 
 -   Marzo 2013 a marzo 2018.
 
--   Tesis de Grado: Estudio de las respuestas de afrontamiento y la calidad de vida percibida en víctimas de robo del Área Metropolitana De Buenos Aires. (Estudio de campo, descriptivo-correlacional y predictivo).
+-   [Tesis de Grado](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/Tesis%20Franchini%202018-03-07.pdf): Estudio de las respuestas de afrontamiento y la calidad de vida percibida en víctimas de robo del Área Metropolitana De Buenos Aires. (Estudio de campo, descriptivo-correlacional y predictivo).
 
 -   Diploma de honor: Promedio: 8.11.
 
@@ -57,18 +57,18 @@
 
 -   X Congreso Internacional de
     Investigación y Práctica Profesional en Psicología, en calidad de
-    expositor por el trabajo: **"Características psicométricas de la
+    expositor por el trabajo: [**"Características psicométricas de la
     adaptación de la versión rioplatense de la Escala Multidimensional
     de Apoyo Social Percibido (Multidimensional Scale of Perceived
-    Social Support, MSPSS)".** Noviembre 2018.
+    Social Support, MSPSS)".**](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202018.pdf) Noviembre 2018.
 
 -   VII Jornada de Intercambio Académico
     y de Investigación, Universidad Católica Argentina. En calidad de
-    expositor por el trabajo: **"Proceso y resultados de la adaptación y validación de una nueva versión de la Escala Multidimensional de Apoyo Social Percibido (Multidimensional Scale of Perceived Social Support, MSPSS) ".** Octubre 2018.
+    expositor por el trabajo: [**"Proceso y resultados de la adaptación y validación de una nueva versión de la Escala Multidimensional de Apoyo Social Percibido (Multidimensional Scale of Perceived Social Support, MSPSS) ".**](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/Presentaci%C3%B3n%20PPT%20%20UCA%202018.ppt) Octubre 2018.
 
--   IX Congreso Internacional de Investigación y Práctica Profesional en Psicología, en calidad de expositor por el trabajo de **"Nueva versión de la escala multidimensional de apoyo social percibido MSPSS"**. Noviembre 2017.
+-   IX Congreso Internacional de Investigación y Práctica Profesional en Psicología, en calidad de expositor por el trabajo de [**"Nueva versión de la escala multidimensional de apoyo social percibido MSPSS"**.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202017.pdf) Noviembre 2017.
 
--   VIII Congreso Internacional de Investigación y Práctica Profesional en Psicología, en calidad de expositor por el trabajo de **"Proceso de adaptación y validación de la MSPSS"**. Noviembre 2016.
+-   VIII Congreso Internacional de Investigación y Práctica Profesional en Psicología, en calidad de expositor por el trabajo de [**"Proceso de adaptación y validación de la MSPSS"**.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202016.pdf) Noviembre 2016.
 
 ## Idiomas
 
