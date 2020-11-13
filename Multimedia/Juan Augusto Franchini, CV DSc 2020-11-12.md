@@ -1,9 +1,9 @@
 <h1 align="center">Juan Augusto Franchini </h1>
 <p align="center">
-| :house: Belgrano, CABA | :clock3: 28 de octubre de 1993 | :telephone_receiver:+54 9 3487 (15) 470100 | :mailbox: juanufranchini@hotmail.com | 
-</p>
 
-Experiencia laboral
+[![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/juan-augusto-franchini) | :house: Belgrano, CABA | :clock3: 28 de octubre de 1993 | :telephone_receiver:+54 9 3487 (15) 470100 | :mailbox: juanufranchini@hotmail.com | </p>
+
+## Experiencia laboral
 
 -   **Data Science Intern-Research Assistant,** UBA. Proyecto “Adaptación y validación de la Escala Multidimensional de Apoyo Social Percibido (Zimet)”. Merge de las bases de 100 ayudantes de data entry, data cleaning, análisis factorial, correlacional, consistencia interna, validez concurrente, visualización de datos, presentación en congresos y jornadas de psicología. Marzo 2016 a abril 2019.
 
@@ -17,7 +17,7 @@ Experiencia laboral
 
 -   **Encuestador y listador para la Dirección Provincial de Estadísticas**,Encuesta de Hogares y Empleo, pcia. de Bs. As.Año 2014.
 
-***Competencias Informáticas***
+## Competencias Informáticas
 
 -   **SPSS**: data-entry, depuración de base de datos, análisis de datos, modelos de predicción (regresión lineal múltiple y simple),scripts básicos.
 
@@ -41,7 +41,7 @@ Experiencia laboral
 
 -   Práctica en Métodos Psicofisiológicos: 10.
 
-**Cursos**
+## Cursos
 
 -   **Intermediate Python.** Datacamp. Año 2020.- En Curso.
 
@@ -53,7 +53,7 @@ Experiencia laboral
 
 -   **Encuestador y listador.** Dir. Prov. de Estadística de la pcia. de Buenos Aires, La Plata. Año 2014.
 
-***Investigación***
+## Investigación
 
 -   X Congreso Internacional de
     Investigación y Práctica Profesional en Psicología, en calidad de
@@ -70,7 +70,7 @@ Experiencia laboral
 
 -   VIII Congreso Internacional de Investigación y Práctica Profesional en Psicología, en calidad de expositor por el trabajo de **"Proceso de adaptación y validación de la MSPSS"**. Noviembre 2016.
 
-***Idiomas***
+## Idiomas
 
 -   **Inglés**: Nivel B2. (First Certificate Exam, Cambridge, año 2011).
 
