@@ -56,7 +56,7 @@
 ## Investigación
 
 -   X Congreso Internacional de
-    Investigación en Psicología, UBA. Expositor: [**"Características psicométricas de la
+    Investigación en Psicología, UBA. Expositor, [**"Características psicométricas de la
     adaptación de la versión rioplatense de la Escala Multidimensional
     de Apoyo Social Percibido (MSPSS)".**](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202018.pdf) Noviembre 2018.
 
