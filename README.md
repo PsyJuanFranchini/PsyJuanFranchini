@@ -43,15 +43,15 @@
 
 ## Cursos
 
--   **Intermediate Python.** Datacamp. Año 2020.- En Curso.
+-   **Intermediate Python.** Datacamp. Octubre 2020.- En Curso.
 
--   **Introduction to Python.** Datacamp. Año 2020.
+-   **Introduction to Python.** Datacamp. Septiembre 2020.
 
--   **Introduction to PowerBI.** Datacamp. Año 2020.
+-   **Introduction to PowerBI.** Datacamp. Septiembre 2020.
 
--   **Introduction to SQL.** Datacamp. Año 2020. - En Curso.
+-   **Introduction to SQL.** Datacamp. Octubre 2020. - En Curso.
 
--   **Encuestador y listador.** Dir. Prov. de Estadística de la pcia. de Buenos Aires, La Plata. Año 2014.
+-   **Encuestador y listador.** Dir. Prov. de Estadística de la pcia. de Buenos Aires, La Plata. Marzo 2014.
 
 ## Investigación
 
