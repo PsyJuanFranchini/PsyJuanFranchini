@@ -5,15 +5,25 @@
 
 ## Experiencia laboral
 
--   **Data Science Intern-Research Assistant**, UBA. Proyecto “Adaptación y validación de la Escala Multidimensional de Apoyo Social Percibido (Zimet)”. [Merge de las bases de 100 ayudantes de data entry, data cleaning, análisis factorial, correlacional, consistencia interna, validez concurrente, visualización de datos, presentación en congresos.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/SPSS-Sample-Syntax-Zimet-MasterDB-2018-2015) Marzo 2016 a abril 2019.
+-   **Data Science Intern-Research Assistant**, UBA. Marzo 2016 a abril 2019.
+    
+    -Proyecto “Adaptación y validación de la Escala Multidimensional de Apoyo Social Percibido (Zimet)”. [Merge de las bases de 100 ayudantes de data entry, data cleaning, análisis factorial, correlacional, consistencia interna, validez concurrente, visualización de datos, presentación en congresos.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/SPSS-Sample-Syntax-Zimet-MasterDB-2018-2015) 
 
--   **Ayudante de primera Metodología de la Investigación**, docente UBA Psicología. Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. Marzo 2018 a marzo 2019.
+-   **Ayudante de primera Metodología de la Investigación**, docente UBA Psicología. Marzo 2018 a marzo 2019.
 
--   **Coayudante de segunda Metodología de la Investigación**, docente UBA Psicología. Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. Años 2016 y 2017.
+    -Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. 
 
--   **Capacitador**, Junior Achievement. Curso "Habilidades para el Éxito" para estudiantes del último año de secundaria, entrenamiento en habilidades interpersonales, trabajo en equipo, confección de C.V., ensayo de primera entrevista laboral. Años 2015 al 2018.
+-   **Coayudante de segunda Metodología de la Investigación**, docente UBA Psicología. Años 2016 y 2017.
+    
+    -Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. 
 
--   **Asistente de asesor metodológico**, Beca Multicéntrica Carrillo Oñativia "Exposición a publicidad y consumo de alimentos en escolares de provincias de argentina” (Ministerio de Salud).Administración de instrumentos psicométricos, data entry, depuración de base de datos de CABA. Septiembre a diciembre 2016.
+-   **Capacitador**, Junior Achievement. Años 2015 al 2018.
+    
+    -Curso "Habilidades para el Éxito" para estudiantes del último año de secundaria, entrenamiento en habilidades interpersonales, trabajo en equipo, confección de C.V., ensayo de primera entrevista laboral. 
+
+-   **Asistente de asesor metodológico**, Beca Multicéntrica Carrillo Oñativia "Exposición a publicidad y consumo de alimentos en escolares de provincias de argentina” (Ministerio de Salud). Septiembre a diciembre 2016.
+
+    -Administración de instrumentos psicométricos, data entry, depuración de base de datos de CABA. 
 
 -   **Encuestador y listador para la Dirección Provincial de Estadísticas**,Encuesta de Hogares y Empleo, pcia. de Bs. As.Año 2014.
 
