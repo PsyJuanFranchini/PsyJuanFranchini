@@ -5,26 +5,27 @@
 
 ## Experiencia laboral
 
--   **Data Science Intern-Research Assistant**, UBA. Marzo 2016 a abril 2019.
+-   **Data Science Intern-Research Assistant**, UBA | Marzo 2016 a abril 2019.
     
     -Proyecto “Adaptación y validación de la Escala Multidimensional de Apoyo Social Percibido (Zimet)”. [Merge de las bases de 100 ayudantes de data entry, data cleaning, análisis factorial, correlacional, consistencia interna, validez concurrente, visualización de datos, presentación en congresos.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/SPSS-Sample-Syntax-Zimet-MasterDB-2018-2015) 
 
--   **Ayudante de primera Metodología de la Investigación**, docente UBA Psicología. Marzo 2018 a marzo 2019.
+-   **Ayudante de primera Metodología de la Investigación**, docente UBA Psicología | Marzo 2018 a marzo 2019.
 
     -Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. 
 
--   **Coayudante de segunda Metodología de la Investigación**, docente UBA Psicología. Años 2016 y 2017.
-    -Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. 
+-   **Coayudante de segunda Metodología de la Investigación**, docente UBA Psicología | Años 2016 y 2017.
+   
+   -Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. 
 
--   **Capacitador**, Junior Achievement. Años 2015 al 2018.
+-   **Capacitador**, Junior Achievement | Años 2015 al 2018.
     
     -Curso "Habilidades para el Éxito" para estudiantes del último año de secundaria, entrenamiento en habilidades interpersonales, trabajo en equipo, confección de C.V., ensayo de primera entrevista laboral. 
 
--   **Asistente de asesor metodológico**, Beca Multicéntrica Carrillo Oñativia "Exposición a publicidad y consumo de alimentos en escolares de provincias de argentina” (Ministerio de Salud). Septiembre a diciembre 2016.
+-   **Asistente de asesor metodológico**, Beca Multicéntrica Carrillo Oñativia "Exposición a publicidad y consumo de alimentos en escolares de provincias de argentina” (Ministerio de Salud) | Septiembre a diciembre 2016.
 
     -Administración de instrumentos psicométricos, data entry, depuración de base de datos de CABA. 
 
--   **Encuestador y listador para la Dirección Provincial de Estadísticas**,Encuesta de Hogares y Empleo, pcia. de Bs. As.Año 2014.
+-   **Encuestador y listador para la Dirección Provincial de Estadísticas**, Encuesta de Hogares y Empleo, pcia. de Bs. As. | Año 2014.
 
 ## Competencias Informáticas
 
@@ -40,9 +41,7 @@
 
 # Educación
 
-**Licenciatura en Psicología**, Universidad de Buenos Aires.
-
--   Marzo 2013 a marzo 2018.
+**Licenciatura en Psicología**, Universidad de Buenos Aires. | Marzo 2013 a marzo 2018.
 
 -   [Tesis de Grado](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/Tesis%20Franchini%202018-03-07.pdf): Estudio de las respuestas de afrontamiento y la calidad de vida percibida en víctimas de robo del Área Metropolitana De Buenos Aires. (Estudio de campo, descriptivo-correlacional y predictivo).
 
@@ -52,28 +51,28 @@
 
 ## Cursos
 
--   **Intermediate Python.** Datacamp. Octubre 2020.- En Curso.
+-   **Intermediate Python.** Datacamp | Octubre 2020.- En Curso.
 
--   **Introduction to Python.** Datacamp. Septiembre 2020.
+-   **Introduction to Python.** Datacamp | Septiembre 2020.
 
--   **Introduction to PowerBI.** Datacamp. Septiembre 2020.
+-   **Introduction to PowerBI.** Datacamp | Septiembre 2020.
 
--   **Introduction to SQL.** Datacamp. Octubre 2020. - En Curso.
+-   **Introduction to SQL.** Datacamp | Octubre 2020. - En Curso.
 
--   **Encuestador y listador.** Dir. Prov. de Estadística de la pcia. de Buenos Aires, La Plata. Marzo 2014.
+-   **Encuestador y listador.** Dir. Prov. de Estadística de la pcia. de Buenos Aires, La Plata | Marzo 2014.
 
 ## Investigación
 
 -   X Congreso Internacional de
     Investigación en Psicología, UBA. Expositor, [**"Características psicométricas de la
     adaptación de la versión rioplatense de la Escala Multidimensional
-    de Apoyo Social Percibido (MSPSS)".**](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202018.pdf) Noviembre 2018.
+    de Apoyo Social Percibido (MSPSS)".**](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202018.pdf) | Noviembre 2018.
 
--   VII Jornada de Investigación, UCA. Expositor, [**"Proceso y resultados de la adaptación y validación de una nueva versión de la Escala Multidimensional de Apoyo Social Percibido (MSPSS)".**](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/Presentaci%C3%B3n%20PPT%20%20UCA%202018.ppt) Octubre 2018.
+-   VII Jornada de Investigación, UCA. Expositor, [**"Proceso y resultados de la adaptación y validación de una nueva versión de la Escala Multidimensional de Apoyo Social Percibido (MSPSS)".**](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/Presentaci%C3%B3n%20PPT%20%20UCA%202018.ppt) | Octubre 2018.
 
--   IX Congreso Internacional de Investigación en Psicología, UBA. Expositor,[**"Nueva versión de la escala multidimensional de apoyo social percibido (MSPSS)"**.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202017.pdf) Noviembre 2017.
+-   IX Congreso Internacional de Investigación en Psicología, UBA. Expositor,[**"Nueva versión de la escala multidimensional de apoyo social percibido (MSPSS)"**.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202017.pdf) | Noviembre 2017.
 
--   VIII Congreso Internacional de Investigación en Psicología, UBA. Expositor, [**"Proceso de adaptación y validación de la MSPSS"**.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202016.pdf) Noviembre 2016.
+-   VIII Congreso Internacional de Investigación en Psicología, UBA. Expositor, [**"Proceso de adaptación y validación de la MSPSS"**.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202016.pdf) | Noviembre 2016.
 
 ## Idiomas
 
