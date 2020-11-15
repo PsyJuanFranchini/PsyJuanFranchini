@@ -16,8 +16,8 @@
 
 
 -   **Coayudante de segunda Metodología de la Investigación**, docente UBA Psicología | Años 2016 y 2017.
-   
-   -Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. 
+
+    -Planificación, dictado de clases y actividades prácticas en conjunto con el ayudante de trabajos prácticos. 
 
 
 -   **Capacitador**, Junior Achievement | Años 2015 al 2018.
