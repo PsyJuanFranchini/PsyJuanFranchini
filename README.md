@@ -57,7 +57,7 @@
 
 ## Cursos
 
--   **Intermediate Python.** Datacamp | Octubre 2020.- En Curso.
+-   **Intermediate Python.** Datacamp | Octubre 2020.
 
 -   **Introduction to Python.** Datacamp | Septiembre 2020.
 
