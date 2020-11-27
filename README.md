@@ -1,9 +1,8 @@
 <h1 align="center">Juan Augusto Franchini </h1>
 <p align="center">
     
-<p align="center">
 [![Linkedin profile](https://cdn3.iconfinder.com/data/icons/socialnetworking/32/linkedin.png)](https://www.linkedin.com/in/juan-augusto-franchini) | :house: Belgrano, CABA | :clock3: 28 de octubre de 1993 | :mailbox: juanufranchini@hotmail.com | </p>
-<p align="center">
+
 ## Experiencia laboral
 
 -   **Data Science Intern-Research Assistant**, UBA | Marzo 2016 a abril 2019.
