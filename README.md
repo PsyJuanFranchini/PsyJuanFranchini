@@ -57,6 +57,10 @@
 
 ## Cursos
 
+-   **Advanced Google Analytics.** Google Academy | Diciembre 2020.
+
+-   **Google Analytics for Beginners.** Google Academy | Noviembre 2020.
+
 -   **Intermediate Python.** Datacamp | Octubre 2020.
 
 -   **Introduction to Python.** Datacamp | Septiembre 2020.
@@ -79,6 +83,8 @@
 -   IX Congreso Internacional de Investigación en Psicología, UBA. Expositor,[**"Nueva versión de la escala multidimensional de apoyo social percibido (MSPSS)"**.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202017.pdf) | Noviembre 2017.
 
 -   VIII Congreso Internacional de Investigación en Psicología, UBA. Expositor, [**"Proceso de adaptación y validación de la MSPSS"**.](https://github.com/PsyJuanFranchini/PsyJuanFranchini/blob/main/Multimedia/P%C3%B3ster%20UBA%202016.pdf) | Noviembre 2016.
+
+-  •	VI Congreso Internacional de Investigación en Psicología. Expositor, **"El papel del enmarcamiento en la toma de decisiones de jóvenes argentinos. Revisión de un experimento mental de Tversky y Kaneman." **. | Noviembre 2014.
 
 ## Idiomas
 
