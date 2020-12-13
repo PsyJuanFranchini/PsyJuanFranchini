@@ -57,6 +57,8 @@
 
 ## Cursos
 
+-   [**The Data Scientist’s Toolbox.**](https://coursera.org/share/2a619e11c8ea9f275b3bed037da31ab6) Johns Hopkins University | Diciembre 2020.
+
 -   **Advanced Google Analytics.** Google Academy | Diciembre 2020.
 
 -   **Google Analytics for Beginners.** Google Academy | Noviembre 2020.
