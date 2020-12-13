@@ -45,6 +45,8 @@
 
 -   **SQL:** Consulta y manipulación básica para bases de datos relacionales.
 
+-   **Git & GitHub:** Control de versiones.
+
 # Educación
 
 **Licenciatura en Psicología**, Universidad de Buenos Aires. | Marzo 2013 a marzo 2018.
